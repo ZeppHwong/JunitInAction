@@ -1,3 +1,5 @@
+package com.example.junit;
+
 import org.hamcrest.BaseMatcher;
 import org.hamcrest.Description;
 

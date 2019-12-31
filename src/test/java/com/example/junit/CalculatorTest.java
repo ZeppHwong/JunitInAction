@@ -1,3 +1,6 @@
+package com.example.junit;
+
+import com.example.junit.Calculator;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

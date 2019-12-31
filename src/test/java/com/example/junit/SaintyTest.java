@@ -1,3 +1,5 @@
+package com.example.junit;
+
 import org.junit.*;
 
 public class SaintyTest {

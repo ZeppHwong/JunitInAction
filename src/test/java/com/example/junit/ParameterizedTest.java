@@ -1,3 +1,6 @@
+package com.example.junit;
+
+import com.example.junit.Calculator;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
